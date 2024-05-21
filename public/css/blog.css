@@ -1,0 +1,9 @@
+.col-12 {
+    width: 100%; /* Chiều rộng tương ứng với thẻ div */
+}
+
+.pay1 img {
+    width: 100%; /* Chiều rộng tương ứng với thẻ div */
+    height: 100%; /* Chiều cao tương ứng với thẻ div */
+    object-fit: cover; /* Đảm bảo ảnh sẽ vừa với kích thước của thẻ div và không bị méo */
+}
